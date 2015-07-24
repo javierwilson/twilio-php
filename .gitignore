@@ -14,3 +14,10 @@ nbproject
 
 # This is used by the documentation generator
 venv
+
+# javier's crap
+*.bak
+*.txt
+!sample.txt
+*.local.php
+
