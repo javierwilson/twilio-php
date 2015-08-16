@@ -20,4 +20,4 @@ venv
 *.txt
 !sample.txt
 *.local.php
-
+*.csv
